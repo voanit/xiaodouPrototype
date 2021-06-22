@@ -1,0 +1,126 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1024px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u18680_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:577px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u18680 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:577px;
+}
+#u18681 {
+  position:absolute;
+  left:2px;
+  top:280px;
+  width:1020px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18682_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:65px;
+  height:65px;
+}
+#u18682 {
+  position:absolute;
+  left:480px;
+  top:72px;
+  width:65px;
+  height:65px;
+}
+#u18683 {
+  position:absolute;
+  left:2px;
+  top:24px;
+  width:61px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18684_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u18684 {
+  position:absolute;
+  left:484px;
+  top:158px;
+  width:71px;
+  height:16px;
+}
+#u18685 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  white-space:nowrap;
+}
+#u18686_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:11px;
+}
+#u18686 {
+  position:absolute;
+  left:486px;
+  top:196px;
+  width:59px;
+  height:14px;
+  font-size:11px;
+}
+#u18687 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  white-space:nowrap;
+}
